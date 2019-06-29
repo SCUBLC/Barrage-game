@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/mainWindow">
+        <file alias="mainWindowBack">C:/Users/86180/Desktop/mink-mingle-NORa8-4ohA0-unsplash.jpg</file>
+        <file alias="tempTest">C:/Users/86180/Desktop/mainWindowBack.jpg</file>
+    </qresource>
+</RCC>
